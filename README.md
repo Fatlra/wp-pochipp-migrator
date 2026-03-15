@@ -18,4 +18,4 @@ Detailed technical explanation (Japanese) is available on Zenn:
 (https://zenn.dev/fatlra/articles/2d8c79ca5a3906)]
 
 ---
-Developed by **FatIra** - [Coconala Profile](https://coconala.com/users/5962341)
+Developed by **FatIra**　(https://coconala.com/users/5962341)
